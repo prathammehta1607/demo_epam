@@ -1,0 +1,105 @@
+[33mcommit 00d00e1e68eb70191e68bbc22cee6031f293ba48[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: pratham <pratham_s@epam.com>
+Date:   Sun Jul 21 23:41:34 2024 +0530
+
+    first commit
+
+[33mcommit 88727e0d1b93c9697ecae6f81de9d7e88e1a2360[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: pratham <pratham_s@epam.com>
+Date:   Sun Jul 21 15:19:52 2024 +0530
+
+    Revert "Update exp.txt"
+    
+    This reverts commit 851ca6d6397c7adc5625f0764e92d8840de87840.
+
+[33mcommit 851ca6d6397c7adc5625f0764e92d8840de87840[m
+Author: prathammehta1607 <139818970+prathammehta1607@users.noreply.github.com>
+Date:   Sun Jul 21 15:11:24 2024 +0530
+
+    Update exp.txt
+
+[33mcommit fc8a05d66fa6a0ea7ff31e20082e9952bb172e6e[m
+Author: pratham <pratham_s@epam.com>
+Date:   Sun Jul 21 15:08:54 2024 +0530
+
+    Revert "trying revert"
+    
+    This reverts commit 07a0b61d02a4490fa7ecb2337cc8e2e8d2cf4f3d.
+
+[33mcommit 07a0b61d02a4490fa7ecb2337cc8e2e8d2cf4f3d[m
+Author: pratham <pratham_s@epam.com>
+Date:   Sun Jul 21 15:07:31 2024 +0530
+
+    trying revert
+
+[33mcommit 89a76a63fd6de9c02a332c735283e0103af4588f[m
+Author: prathammehta1607 <139818970+prathammehta1607@users.noreply.github.com>
+Date:   Sat Jul 20 23:12:16 2024 +0530
+
+    Update exp.txt
+
+[33mcommit b1f244fd3864d6468504b1586ac170db769d6cab[m
+Author: pratham <pratham_s@epam.com>
+Date:   Sat Jul 20 23:08:23 2024 +0530
+
+    updatesd experiment
+
+[33mcommit b5228aa19ddec888c55a04ba882d1aec58305d1e[m
+Author: pratham <pratham_s@epam.com>
+Date:   Fri Jul 19 11:48:24 2024 +0530
+
+    last commit
+
+[33mcommit 056afadec94a098dc26c2692cc5c3cd83732ca1d[m
+Author: pratham <pratham_s@epam.com>
+Date:   Fri Jul 19 11:41:32 2024 +0530
+
+    secong hvyhv
+
+[33mcommit 557eaa007c0062262c8cdccbc1b63fde581433c0[m
+Author: prathammehta1607 <139818970+prathammehta1607@users.noreply.github.com>
+Date:   Thu Jul 18 15:43:11 2024 +0530
+
+    pull experiment
+
+[33mcommit db616bdbbddf0db46883d7156765d27579e8b1e2[m
+Author: pratham <pratham_s@epam.com>
+Date:   Thu Jul 18 15:42:03 2024 +0530
+
+    1 file
+
+[33mcommit 84c51e900d0ce8ce93213a652c71bbf6aaef027d[m
+Author: pratham <pratham_s@epam.com>
+Date:   Thu Jul 18 15:38:56 2024 +0530
+
+    added 1 line
+
+[33mcommit 638725460579b0de3504e5abfef0b6cc65bafc67[m
+Author: pratham <pratham_s@epam.com>
+Date:   Thu Jul 18 15:07:54 2024 +0530
+
+    one change
+
+[33mcommit 19b19a68515110647cf2ff5b990c23dc9f26ea96[m
+Author: prathammehta1607 <139818970+prathammehta1607@users.noreply.github.com>
+Date:   Thu Jul 18 15:05:48 2024 +0530
+
+    Update song.txt
+
+[33mcommit cff985095792897098f889e648b2212e6c67d0a3[m
+Author: pratham <pratham_s@epam.com>
+Date:   Thu Jul 18 14:58:16 2024 +0530
+
+    Two lined added
+
+[33mcommit da1f3e3fd2f800fcd18639c790653ada3e4a71f5[m
+Author: pratham <pratham_s@epam.com>
+Date:   Thu Jul 18 14:51:09 2024 +0530
+
+    add first 2 lines in the song
+
+[33mcommit 2b83d7bcc1ff169a1d26b5a6180eaf45201b8442[m
+Author: prathammehta1607 <139818970+prathammehta1607@users.noreply.github.com>
+Date:   Thu Jul 18 12:08:35 2024 +0530
+
+    Initial commit
